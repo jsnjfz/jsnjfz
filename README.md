@@ -42,16 +42,22 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ai-memory</h3>
-      <p>记录 → 同步 → 继续。跨电脑保存有来源的项目状态，让下一次工作接着进行。</p>
-      <p><sub>协作记忆 · 工程实践</sub></p>
-      <a href="https://maomaolab.cn/projects/ai-memory/">查看实践 →</a>
+      <a href="https://maomaolab.cn/apps/paper-house/">
+        <img src="assets/paper-house.webp" width="480" alt="折纸机关屋真实画面：小纸灵搭乘折页，走向立体纸屋">
+      </a>
+      <h3>折纸机关屋</h3>
+      <p>折动纸桥与书页，陪小纸灵走过三个关卡，把光带回家。</p>
+      <p><sub>纸艺解谜 · 建议电脑体验</sub></p>
+      <a href="https://maomaolab.cn/apps/paper-house/">翻开故事 →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>采购 AI 专题</h3>
-      <p>从需求抽取、行情洞察到供应商候选，让 AI 进入采购人员的确认流程。</p>
-      <p><sub>企业场景 · 人工确认</sub></p>
-      <a href="https://maomaolab.cn/projects/procurement-ai/">查看案例 →</a>
+      <a href="https://maomaolab.cn/apps/jiangshan/">
+        <img src="assets/jiangshan.webp" width="480" alt="无尽江山图真实画面：青绿山水、松树、小舟与诗句">
+      </a>
+      <h3>无尽江山图</h3>
+      <p>一幅永远画不完的山水长卷。山水、诗句与琴声即时生成，四季流转。</p>
+      <p><sub>生成式艺术 · 建议开声音</sub></p>
+      <a href="https://maomaolab.cn/apps/jiangshan/">展开画卷 →</a>
     </td>
   </tr>
 </table>
