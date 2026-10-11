@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">毛毛 AI 实验室</title>
+  <desc id="desc">和 AI 一起，做点有意思的。技术、AI 与真实业务。</desc>
+  <rect width="1200" height="360" rx="12" fill="#1d241e"/>
+  <rect x="48" y="42" width="40" height="40" rx="8" fill="#e8e9dc"/>
+  <path d="M57 71V53h5l6 10 6-10h5v18h-5V62l-6 10-6-10v9Z" fill="#1d241e"/>
+  <text x="105" y="69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="600" letter-spacing="3" fill="#c1cbb3">MAOMAO AI LAB</text>
+  <g font-family="'Songti SC', 'Noto Serif CJK SC', SimSun, serif" font-size="76" fill="#f1efe5">
+    <text x="48" y="181">和 AI 一起，</text>
+    <text x="48" y="276">做点有意思的。</text>
+  </g>
+  <path d="M49 314h70" stroke="#afbd99" stroke-width="3"/>
+  <text x="138" y="321" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" letter-spacing="4" fill="#b8c1ab">技术 × AI × 真实业务</text>
+  <g transform="translate(958 180)">
+    <circle r="111" fill="#2b3729"/>
+    <circle r="80" fill="none" stroke="#54674a"/>
+    <ellipse rx="174" ry="61" transform="rotate(-32)" fill="none" stroke="#859875" stroke-width="1.5"/>
+    <ellipse rx="142" ry="134" transform="rotate(25)" fill="none" stroke="#3c4b37"/>
+    <circle cx="-139" cy="53" r="9" fill="#bccca2"/>
+    <circle cx="123" cy="-63" r="5" fill="#cab78c"/>
+    <path d="M-37 34v-68h17L0 0l20-34h17v68H20V-5L0 28-20-5v39Z" fill="#b8cda0"/>
+    <path d="M99 91v18m-9-9h18" stroke="#cab78c" stroke-width="2"/>
+  </g>
+</svg>
